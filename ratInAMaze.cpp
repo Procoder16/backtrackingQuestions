@@ -69,7 +69,6 @@ int main(){
     else{
         cout<<"THERE IS NO PATH FOR THE RAT TO CROSS THE MAZE!!!";
     }
-
-
+    
     return 0;
 }
